@@ -4,7 +4,7 @@ This is the prework app for CodePath. The app generates a page with the text "He
 
 ### App Walk-though
 
-<img src="https://imgur.com/JVLabYU" width=200><br>
+<img src="https://imgur.com/JVLabYU.gif" width=200><br>
 
 ### Required User Stories
 - [x ] 1. User sees custom text in a label - Hello from {name}!
